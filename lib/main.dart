@@ -12,7 +12,7 @@ void main() => runApp(MaterialApp(
           centerTitle: true,
         ),
         body: Center(
-          child: Text("Sasuke  ưqeqwe"),
+          child: Text("Sasuke"),
         ),
         floatingActionButton: FloatingActionButton(
           child: const Icon(Icons.add),
